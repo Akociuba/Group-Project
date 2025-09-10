@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a993c6c-34b6-426b-81fb-fbd5d5bf8a72" name="Changes" comment="made main method">
-      <change afterPath="$PROJECT_DIR$/src/QuizSolver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4a993c6c-34b6-426b-81fb-fbd5d5bf8a72" name="Changes" comment="made stuff" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757504665331</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="made stuff">
+      <option name="closed" value="true" />
+      <created>1757507427488</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757507427488</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +117,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created project" />
     <MESSAGE value="made main method" />
-    <option name="LAST_COMMIT_MESSAGE" value="made main method" />
+    <MESSAGE value="made stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="made stuff" />
   </component>
 </project>
