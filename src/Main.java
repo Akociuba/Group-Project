@@ -1,7 +1,17 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("What is your question?");
+        String QU = sc.nextLine();
+
+        System.out.println("What are your answers?");
+        String ANs = sc.nextLine();
+
+        System.out.println("What is the correct answer?");
+        String COR = sc.nextLine();
+
 
     }
 }
