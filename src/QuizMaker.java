@@ -15,7 +15,7 @@ public class QuizMaker {
         answers = new ArrayList<String>();
         corrects = new ArrayList<Character>();
     }
-    public String makeQuestion(question) {
+    public String makeQuestion(String question) {
         questions.add(question);
         return "thanks";
     }
