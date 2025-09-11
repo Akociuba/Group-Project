@@ -27,5 +27,21 @@ public class Main {
             quiz.makeCorrectAnswer(cor);
             i++;
         }
+        QuizSolver solve = new QuizSolver("h", 0);
+        System.out.println("How many questions do you want to solve?");
+        int nums = sc.nextInt();
+        int r = 1;
+        while (r <= nums) {
+            System.out.println("What question do you want to solve (enter the number)?");
+            int qnum = sc.nextInt() - 1;
+            System.out.println(QuizMaker.questions.get(qnum));
+            for(int k = 0; k < 4; k++) {
+                System.out.println(QuizMaker.answers.get(k+((qnum+1)*4)-1));
+            }
+            System.out.println("What do you think is the correct answer (type a, b, c, or d)?");
+            String corl = sc.nextLine();
+            System.out.println(solve.Answer(corl, qnum));
+            r++;
+        }
     }
 }
