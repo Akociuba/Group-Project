@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a993c6c-34b6-426b-81fb-fbd5d5bf8a72" name="Changes" comment="bro 21">
+    <list default="true" id="4a993c6c-34b6-426b-81fb-fbd5d5bf8a72" name="Changes" comment="fixed errors in QuizMaker">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuizSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuizSolver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +29,12 @@
     &quot;assignee&quot;: &quot;Akociuba&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Akociuba/Group-Project",
-    "accountId": "ce432aba-ee01-42e8-86cb-4000b0028276"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Akociuba/Group-Project&quot;,
+    &quot;accountId&quot;: &quot;16459845-d94e-4245-bfbb-2bc3bd69ba2e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -78,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757504393918</updated>
       <workItem from="1757504394968" duration="2471000" />
-      <workItem from="1757594585535" duration="302000" />
+      <workItem from="1757594527058" duration="981000" />
     </task>
     <task id="LOCAL-00001" summary="created project">
       <option name="closed" value="true" />
@@ -96,15 +96,31 @@
       <option name="project" value="LOCAL" />
       <updated>1757504665331</updated>
     </task>
-    <task id="LOCAL-00003" summary="bro 21">
+    <task id="LOCAL-00003" summary="made stuff">
       <option name="closed" value="true" />
-      <created>1757507856179</created>
+      <created>1757507427488</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1757507856179</updated>
+      <updated>1757507427488</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="made all of QuizMaker.java">
+      <option name="closed" value="true" />
+      <created>1757507839540</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757507839540</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixed errors in QuizMaker">
+      <option name="closed" value="true" />
+      <created>1757594782849</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757594782849</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +140,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created project" />
     <MESSAGE value="made main method" />
-    <MESSAGE value="bro 21" />
-    <option name="LAST_COMMIT_MESSAGE" value="bro 21" />
+    <MESSAGE value="made stuff" />
+    <MESSAGE value="made all of QuizMaker.java" />
+    <MESSAGE value="fixed errors in QuizMaker" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed errors in QuizMaker" />
   </component>
 </project>
