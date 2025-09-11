@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a993c6c-34b6-426b-81fb-fbd5d5bf8a72" name="Changes" comment="rand" />
+    <list default="true" id="4a993c6c-34b6-426b-81fb-fbd5d5bf8a72" name="Changes" comment="fixed errors in QuizMaker" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +29,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Akociuba/Group-Project&quot;,
-    &quot;accountId&quot;: &quot;ce432aba-ee01-42e8-86cb-4000b0028276&quot;
+    &quot;accountId&quot;: &quot;16459845-d94e-4245-bfbb-2bc3bd69ba2e&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -75,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757504393918</updated>
       <workItem from="1757504394968" duration="2471000" />
-      <workItem from="1757594585535" duration="3400000" />
+      <workItem from="1757594527058" duration="981000" />
     </task>
     <task id="LOCAL-00001" summary="created project">
       <option name="closed" value="true" />
@@ -93,55 +93,39 @@
       <option name="project" value="LOCAL" />
       <updated>1757504665331</updated>
     </task>
-    <task id="LOCAL-00003" summary="bro 21">
+    <task id="LOCAL-00003" summary="made stuff">
       <option name="closed" value="true" />
-      <created>1757507856179</created>
+      <created>1757507427488</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1757507856179</updated>
+      <updated>1757507427488</updated>
     </task>
-    <task id="LOCAL-00004" summary="changed main method">
+    <task id="LOCAL-00004" summary="made all of QuizMaker.java">
       <option name="closed" value="true" />
-      <created>1757595022946</created>
+      <created>1757507839540</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1757595022947</updated>
+      <updated>1757507839540</updated>
     </task>
-    <task id="LOCAL-00005" summary="rand">
+    <task id="LOCAL-00005" summary="fixed errors in QuizMaker">
       <option name="closed" value="true" />
-      <created>1757595188166</created>
+      <created>1757594782849</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1757595188166</updated>
+      <updated>1757594782849</updated>
     </task>
-    <task id="LOCAL-00006" summary="rand">
+    <task id="LOCAL-00006" summary="fixed errors in QuizMaker">
       <option name="closed" value="true" />
-      <created>1757595895474</created>
+      <created>1757597860353</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1757595895474</updated>
+      <updated>1757597860353</updated>
     </task>
-    <task id="LOCAL-00007" summary="rand">
-      <option name="closed" value="true" />
-      <created>1757596846213</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1757596846213</updated>
-    </task>
-    <task id="LOCAL-00008" summary="rand">
-      <option name="closed" value="true" />
-      <created>1757597907758</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1757597907758</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,9 +145,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created project" />
     <MESSAGE value="made main method" />
-    <MESSAGE value="bro 21" />
-    <MESSAGE value="changed main method" />
-    <MESSAGE value="rand" />
-    <option name="LAST_COMMIT_MESSAGE" value="rand" />
+    <MESSAGE value="made stuff" />
+    <MESSAGE value="made all of QuizMaker.java" />
+    <MESSAGE value="fixed errors in QuizMaker" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed errors in QuizMaker" />
   </component>
 </project>
