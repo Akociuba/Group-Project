@@ -2,7 +2,11 @@ public class QuizSolver {
     public QuizSolver() {
 
     }
-    public boolean Answer() {
-        return false;
+    public boolean Answer(String ans, int num) {
+        if (ans.equals(QuizMaker.corrects.get(num))){
+            return true;
+        } else{
+            return false;
+        }
     }
 }

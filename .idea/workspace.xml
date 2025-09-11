@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a993c6c-34b6-426b-81fb-fbd5d5bf8a72" name="Changes" comment="bro 21">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="4a993c6c-34b6-426b-81fb-fbd5d5bf8a72" name="Changes" comment="rand">
+      <change beforePath="$PROJECT_DIR$/src/QuizSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuizSolver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +28,12 @@
     &quot;assignee&quot;: &quot;Akociuba&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Akociuba/Group-Project",
-    "accountId": "ce432aba-ee01-42e8-86cb-4000b0028276"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Akociuba/Group-Project&quot;,
+    &quot;accountId&quot;: &quot;ce432aba-ee01-42e8-86cb-4000b0028276&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -78,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757504393918</updated>
       <workItem from="1757504394968" duration="2471000" />
-      <workItem from="1757594585535" duration="302000" />
+      <workItem from="1757594585535" duration="1284000" />
     </task>
     <task id="LOCAL-00001" summary="created project">
       <option name="closed" value="true" />
@@ -104,7 +103,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757507856179</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changed main method">
+      <option name="closed" value="true" />
+      <created>1757595022946</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757595022947</updated>
+    </task>
+    <task id="LOCAL-00005" summary="rand">
+      <option name="closed" value="true" />
+      <created>1757595188166</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757595188166</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +140,8 @@
     <MESSAGE value="created project" />
     <MESSAGE value="made main method" />
     <MESSAGE value="bro 21" />
-    <option name="LAST_COMMIT_MESSAGE" value="bro 21" />
+    <MESSAGE value="changed main method" />
+    <MESSAGE value="rand" />
+    <option name="LAST_COMMIT_MESSAGE" value="rand" />
   </component>
 </project>
