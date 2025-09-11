@@ -3,17 +3,17 @@ import java.util.Scanner;
 public class QuizMaker {
     private String question;
     private String answer;
-    private char correctAnswer;
+    private String correctAnswer;
     public static ArrayList<String> questions;
     public static ArrayList<String> answers;
-    public static ArrayList<Character> corrects;
-    public QuizMaker(String q, String a, char c) {
+    public static ArrayList<String> corrects;
+    public QuizMaker(String q, String a, String c) {
         question = q;
         answer = a;
         correctAnswer = c;
         questions = new ArrayList<String>();
         answers = new ArrayList<String>();
-        corrects = new ArrayList<Character>();
+        corrects = new ArrayList<String>();
     }
     public String makeQuestion(String question) {
         questions.add(question);
@@ -23,7 +23,7 @@ public class QuizMaker {
         answers.add(answer);
         return "thanks";
     }
-    public String makeCorrectAnswer(char correctAnswer) {
+    public String makeCorrectAnswer(String correctAnswer) {
         corrects.add(correctAnswer);
         return "thanks";
     }
