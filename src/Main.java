@@ -25,6 +25,7 @@ public class Main {
             System.out.println("What is the correct answer (type a, b, c, or d)?");
             String cor = sc.nextLine();
             quiz.makeCorrectAnswer(cor);
+            i++;
         }
     }
 }
